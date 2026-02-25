@@ -16,9 +16,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
-  "dependencies": {
-    "json-server": "^1.0.0-beta.9"
+  "devDependencies": {
+    "json-server": "^0.17.4"
   }
 }
