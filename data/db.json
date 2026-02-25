@@ -1,0 +1,91 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Basic Bob''s Burger",
+            "restaurant": "Bob''s Burgers",
+            "web": "https://www.bobsburgers.com",
+            "description": "It''s Bob''s Burgers!",
+            "ingredients": [
+                "100% Real Ground Beef",
+                "Cheddar Cheese",
+                "Fresh Mushrooms",
+                "Red Onions",
+                "Ketchup",
+                "Mustard"
+            ],
+            "addresses": [
+                {
+                    "addressid": 0,
+                    "number": "123",
+                    "line1": "Main Street",
+                    "line2": "",
+                    "zippostal": "63118",
+                    "city": "St. Louis",
+                    "state": "MO"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Grease Burger Deluxe",
+            "restaurant": "Mickey D''s",
+            "web": "https://www.mickeyds.com",
+            "description": "Greasiest burger ever",
+            "ingredients": [
+                "50/50 ground beef",
+                "extra grease",
+                "Murkin cheese",
+                "10 year old ketchup",
+                "canned diced white onions",
+                "ultra-refined white flour buns"
+            ],
+            "addresses": [
+                {
+                    "addressid": 1,
+                    "number": "101",
+                    "line1": "Main Street",
+                    "line2": "",
+                    "zippostal": "63118",
+                    "city": "St. Louis",
+                    "state": "MO"
+                },
+                {
+                    "addressid": 2,
+                    "number": "203",
+                    "line1": "Main Street",
+                    "line2": "",
+                    "zippostal": "63118",
+                    "city": "St. Louis",
+                    "state": "MO"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "The Healthy Burger",
+            "restaurant": "Really Good Burgers Inc",
+            "web": "https://www.reallygoodburgers.biz",
+            "description": "An actually healthy burger!",
+            "ingredients": [
+                "kobe beef",
+                "gruyere cheese",
+                "sliced red onions",
+                "Fresh Mushrooms",
+                "truffle aioli",
+                "Whole Wheat Buns"
+            ],
+            "addresses": [
+                {
+                    "addressid": 3,
+                    "number": "399",
+                    "line1": "Main Street",
+                    "line2": "2nd floor",
+                    "zippostal": "63118",
+                    "city": "St. Louis",
+                    "state": "MO"
+                }
+            ]
+        }
+    ]
+}
